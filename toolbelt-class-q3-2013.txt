@@ -1,3 +1,6 @@
 Jason Noble, Instructor
 Johnny Appleseed2, Student
 Ted Smith, Student
+Johnny Appleseed, Student
+Ted Smith, Student
+Ross Kinney, Student
