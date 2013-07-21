@@ -1,3 +1,4 @@
 Hi, This is some other file
-I read this file.
+I read this file, and it was really boring.
+I made a change to this file to create conflict for my team!
 Isn't there enough conflict in the world? Why can't we all just get along?
