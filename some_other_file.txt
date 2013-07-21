@@ -1,4 +1,4 @@
 Hi, This is some other file
 I read this file, and it was really boring.
-I made a change to this file to create conflict for my team!
+I changed line #3 in an attempt to create havoc in the world of Git!
 Isn't there enough conflict in the world? Why can't we all just get along?
